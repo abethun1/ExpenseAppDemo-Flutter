@@ -11,7 +11,7 @@ class NewTransaction extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     /*
-      Builds a new transaction widget that gets text data from user
+      Test Builds a new transaction widget that gets text data from user
       The PurchaseName section takes in a string and uses a controller to get 
       the input and convert it
       The PurchaseAmount section takes a string input and uses the TextInputType
